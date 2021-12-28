@@ -20,7 +20,7 @@ MADE BY-TEAMIC
 - Team IC Discord - [Join Now](https://dsc.gg/team-ic)
 - Team IC Website - [Website](https://teamic.me)
 
-# update status v8
+# update status v1.0.8
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - added costem cmds 

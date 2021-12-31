@@ -3,5 +3,7 @@
  "port": "Your_server_port_here",
  "name": "Your_bot_name_here",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here"
+ "loginmsg": "Your_Login_message_here",
+ "prefix": "!",
+ "version": "1.17.1"
 }

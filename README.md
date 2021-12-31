@@ -17,14 +17,16 @@ MADE BY-TEAMIC
 - best and easy way to use mineboty is using replit 
 - toturial videos [for replit click here](https://www.youtube.com/watch?v=WZwroM4NdBU&t=0s)   |   [for GLITCH click here](https://www.youtube.com/watch?v=6sPwCrHFYCY) | [for heroku click here](https://www.youtube.com/watch?v=YMVFHtkmSzg)
 - for more support [join discord here](https://discord.gg/8bM62csKYd)
-- Team IC Discord - [Join Now](https://dsc.gg/team-ic)
+- Team IC Discord - [Join Now](https://discord.gg/teamic)
 - Team IC Website - [Website](https://teamic.me)
 
-# update status v1.0.8
+
+# update status v2.0.1
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- added costem cmds 
 - - bugs fix
 - :)    
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -                             
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+## Happy New Year
 

@@ -34,6 +34,11 @@ MADE BY-TEAMIC
 - easy to use
 - helping bot
 - Developed by Team-IC 
-- and more!!!
+- login system (so you can also use login so bot dose not get kicked by login plugin)
+- prefix
+- custom commands 
+- and more!!!!
 ## Happy New Year
+
+# pls help us by staring or forking this repo 
 

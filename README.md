@@ -24,9 +24,16 @@ MADE BY-TEAMIC
 # update status v2.0.1
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- - bugs fix
+- bugs fix
 - :)    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+# why mineboty
+- mineboty is better than afk bots
+- mineboty has multiple features
+- easy to use
+- helping bot
+- Developed by Team-IC 
+- and more!!!
 ## Happy New Year
 

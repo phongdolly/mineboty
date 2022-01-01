@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "dyllo.aternos.me",
+ "port": "23553",
+ "name": "VMU",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "Hello",
  "prefix": "!",
  "version": "1.17.1"
 }
